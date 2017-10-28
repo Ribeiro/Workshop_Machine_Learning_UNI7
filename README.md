@@ -13,4 +13,8 @@ https://github.com/saagarikha/MachineLearning/tree/master/Machine%20learning%20A
 
 https://gitlab.com/gribeiro
 
+https://www.quora.com/What-are-some-data-mining-machine-learning-open-source-projects-in-GitHub
+
+https://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/
+
 
