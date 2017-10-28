@@ -19,4 +19,6 @@ https://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-f
 
 https://sebastianraschka.com/blog/2014/musicmood.html
 
+https://spandan-madan.github.io/DeepLearningProject/
+
 
