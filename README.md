@@ -17,4 +17,6 @@ https://www.quora.com/What-are-some-data-mining-machine-learning-open-source-pro
 
 https://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/
 
+https://sebastianraschka.com/blog/2014/musicmood.html
+
 
