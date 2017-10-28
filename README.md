@@ -11,4 +11,6 @@ https://www.kaggle.com/fakharabbasmehar/prediction-of-pima-diabetes-with-machine
 
 https://github.com/saagarikha/MachineLearning/tree/master/Machine%20learning%20Algorithms%20-%20Implementation%20-%20Python
 
+https://gitlab.com/gribeiro
+
 
